@@ -1,0 +1,1 @@
+A mod for minetest that add various decorative nodes.  No craft recipes.  Meant to be used in creative mode.
