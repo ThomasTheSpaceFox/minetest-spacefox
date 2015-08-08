@@ -1,6 +1,9 @@
 # spacefox_mod_minetest
 spacefox is a mod for the open sorce game: Minetest
 
+a discription of the mod and of what it adds can be found here on the wiki:
+<https://github.com/ThomasTheSpaceFox/minetest-spacefox/wiki>
+
  (c) 2015 Thomas Leathers
 textures (c) 2015 Thomas Leathers
 
